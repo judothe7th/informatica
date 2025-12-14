@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+    color:midnightblue;
+}
+h2 {
+    color:blueviolet;
+}
+td {
+    background-color:blue;
+}
+tr {
+    background-color:green;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
